@@ -13,7 +13,6 @@ The data for this analysis comes from Covid deaths - it contains detailed inform
 ### Data Cleaning/Prepartion 
 -Using SQL, including analyzing death rates, total confirmed cases, vaccination rates, etc.
 
-
 ### Key Questions
 - Which country has the highest infected rate? 
 - What are the infected rate, vaccination rate and death rate per continent?
