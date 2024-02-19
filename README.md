@@ -16,7 +16,6 @@ The data for this analysis comes from Covid deaths - it contains detailed inform
 ### Key Questions
 - Which country has the highest infected rate? 
 - What are the infected rate, vaccination rate and death rate per continent?
-- 
 ### Data Analysis
 - SQL - Data cleaning and analysis [View here](https://github.com/ChunLinKuo/Covid-Data-Exploration/blob/main/Covid%20exploration.sql)
 - Tableau - Creating report [View here](https://public.tableau.com/app/profile/chun.lin.kuo/viz/Book1_17083709568960/Dashboard2)
