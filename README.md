@@ -10,7 +10,7 @@ The data for this analysis comes from Covid deaths - it contains detailed inform
 - SQL & Tableau
 
 ### Data Cleaning/Prepartion 
--Using SQL, including analyzing death rates, total confirmed cases, vaccination rates, etc.
+Using SQL, including analyzing death rates, total confirmed cases, vaccination rates, etc.
 
 ### Key Questions
 - Which country has the highest infected rate? 
