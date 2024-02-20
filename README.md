@@ -7,7 +7,7 @@ This data analysis explores the variations in infected populations, death counts
 The data for this analysis comes from Covid deaths - it contains detailed information about Covid-19 from Our World Data.
 
 ### Tools
-- SQL & Tableau
+SQL & Tableau
 
 ### Data Cleaning/Prepartion 
 Using SQL, including analyzing death rates, total confirmed cases, vaccination rates, etc.
